@@ -56,6 +56,10 @@ Step 5: Print the integral value
 
 ## Program:
 
+ name:yashwanth.asv
+ 
+ reg no:24900018
+
 <br>
 
 ```
